@@ -1,0 +1,34 @@
+body {
+  background-color: bisque;
+}
+
+h1 {
+  text-align: center;
+  color: brown;
+}
+
+p {
+  text-align: center;
+}
+
+.croissant-links {
+  display: flex;
+  justify-content: center;
+}
+
+.link {
+  border: 2px solid brown;
+  padding: 20px;
+  text-decoration: none;
+  background: brown;
+  color: white;
+  border-radius: 4px;
+  margin: 30px;
+}
+
+img {
+  max-width: 400px;
+  display: block;
+  margin: 0 auto;
+  padding: 25px;
+}
